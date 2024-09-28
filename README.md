@@ -5,10 +5,10 @@
 - 🌱 I’m currently pursuing **my undergraduate degree (B.E) at Dayananda Sagar College of Engineering, Bangalore**
 
 - 👯 I’m looking to collaborate on **the projects related to full stack dev and data structures..**
-
+- 📫 How to reach me **adarshvalasang147@gmail.com**
 - 💬 Ask me about **Full Stack Web Development**
 
-- 📫 How to reach me **adarshvalasang147@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
